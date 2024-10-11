@@ -40,6 +40,7 @@ public class Base {
 			e.printStackTrace();
 		}	
 }
+	//git commands used
 	public void setup()
 	{
 		String browsername= prop.getProperty("browser");
